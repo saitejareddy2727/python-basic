@@ -8,11 +8,7 @@ the 1500s, when an unknown printer took a galley of type and scrambled it to mak
 centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release 
 of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions
  of Lorem Ipsum.
- Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since 
-the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five 
-centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release 
-of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions
- of Lorem Ipsum.
+
  Gukesh Dommaraju (born 29 May 2006), also known as Gukesh D, is an Indian chess grandmaster and the reigning World Chess Champion.
   He is the youngest undisputed World Chess Champion in the history of the game. A chess prodigy, Gukesh is the youngest player to have 
   surpassed a FIDE rating of 2750, doing so at the age of 17, and was the third-youngest to have surpassed 2700 at the age of 16. He earned 
@@ -21,4 +17,19 @@ of Letraset sheets containing Lorem Ipsum passages, and more recently with deskt
   He is the youngest undisputed World Chess Champion in the history of the game. A chess prodigy, Gukesh is the youngest player to have 
   surpassed a FIDE rating of 2750, doing so at the age of 17, and was the third-youngest to have surpassed 2700 at the age of 16. He earned 
   the title of grandmaster at the age of 12 and remains the third-youngest grandmaster in the history of chess.
-  
+  Gukesh Dommaraju (born 29 May 2006), also known as Gukesh D, is an Indian chess grandmaster and the reigning World Chess Champion.
+  He is the youngest undisputed World Chess Champion in the history of the game. A chess prodigy, Gukesh is the youngest player to have 
+  surpassed a FIDE rating of 2750, doing so at the age of 17, and was the third-youngest to have surpassed 2700 at the age of 16. He earned 
+  the title of grandmaster at the age of 12 and remains the third-youngest grandmaster in the history of chess.
+  Gukesh Dommaraju (born 29 May 2006), also known as Gukesh D, is an Indian chess grandmaster and the reigning World Chess Champion.
+  He is the youngest undisputed World Chess Champion in the history of the game. A chess prodigy, Gukesh is the youngest player to have 
+  surpassed a FIDE rating of 2750, doing so at the age of 17, and was the third-youngest to have surpassed 2700 at the age of 16. He earned 
+  the title of grandmaster at the age of 12 and remains the third-youngest grandmaster in the history of chess.
+  Gukesh Dommaraju (born 29 May 2006), also known as Gukesh D, is an Indian chess grandmaster and the reigning World Chess Champion.
+  He is the youngest undisputed World Chess Champion in the history of the game. A chess prodigy, Gukesh is the youngest player to have 
+  surpassed a FIDE rating of 2750, doing so at the age of 17, and was the third-youngest to have surpassed 2700 at the age of 16. He earned 
+  the title of grandmaster at the age of 12 and remains the third-youngest grandmaster in the history of chess.
+  Gukesh Dommaraju (born 29 May 2006), also known as Gukesh D, is an Indian chess grandmaster and the reigning World Chess Champion.
+  He is the youngest undisputed World Chess Champion in the history of the game. A chess prodigy, Gukesh is the youngest player to have 
+  surpassed a FIDE rating of 2750, doing so at the age of 17, and was the third-youngest to have surpassed 2700 at the age of 16. He earned 
+  the title of grandmaster at the age of 12 and remains the third-youngest grandmaster in the history of chess.
